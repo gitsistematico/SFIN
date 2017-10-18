@@ -136,10 +136,10 @@ foreach ($reg_menus as $key => $value)
 				Sistema de Facturación, Inventario y Nomina.
 			</div>
 			<!-- <div class="main">-->
-				<div class="container">
+				<div class="container" style="width:98%;">
 					<div class="form-group" style="margin-left:-15px !important;">
 							<div class="panel with-nav-tabs panel-default">
-								<div class="panel-heading" id="p_heading">
+								<div class="panel-heading" id="p_heading" >
 									 <ul class="nav nav-tabs" role="tablist" id="table_lis">
 
 										 <!-- <li role="presentation" class="hide">
@@ -164,7 +164,7 @@ foreach ($reg_menus as $key => $value)
 									 </ul>
 								</div>
 
-								<div class="panel-body">
+								<div class="panel-body" style="background-color:#f5f5f5;">
 								<div class="tab-content" id="tab_content_panel">
 									<!-- <div role="tabpanel" class="tab-pane active" id="producto">
 										<div class="container" style="width:100%;">
